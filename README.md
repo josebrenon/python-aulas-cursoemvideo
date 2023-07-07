@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aulas de Python do Curso em vídeo</title>
+   
 </head>
 <body>
     <h1>Aulas de Python do Curso em vídeo</h1>
