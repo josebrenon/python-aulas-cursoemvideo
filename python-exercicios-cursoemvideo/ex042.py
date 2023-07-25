@@ -11,7 +11,7 @@
     que é um triângulo equilátero, se tiver dois lados iguais e um diferente é isósceles, se
     todos os lados diferirem é um escaleno.
 
-    Autor: José Brenon - 22/07/2023
+    Autor: José Brenon - 25/07/2023
 """
 r1 = float(input('Primeiro seguimento: '))
 r2 = float(input('Segundo seguimento: '))

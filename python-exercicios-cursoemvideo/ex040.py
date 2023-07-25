@@ -9,7 +9,7 @@
     se ela estiver abaixo de 5,0 mostra que o aluno está reprovado, se estiver entre 5,0 e 6,9
     ele está em recuperação e se estiver acima de 7,0 esse aluno está aprovado.
 
-    Autor: José Brenon - 22/07/2023
+    Autor: José Brenon - 25/07/2023
 """
 nota1 = float(input('Digite a primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))

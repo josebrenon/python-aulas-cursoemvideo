@@ -10,7 +10,7 @@
     verifica se tiver até 9 anos mostra que é mirim, se for até 14 anos é infantil, se for
     até 19 anos é Júnior, até 25 anos é sênior, e acima de 25 é master.
 
-    Autor: José Brenon - 22/07/2023
+    Autor: José Brenon - 25/07/2023
 """
 from datetime import date
 
