@@ -15,7 +15,7 @@
 from datetime import date
 
 ano = int(input('Digite seu ano de nascimento: '))
-idade = 2017 - ano  # date.today().year
+idade = date.today().year - ano
 print('O aleta tem {} anos.'.format(idade))
 if idade <= 9:
     print('Sua categoria é MIRIM.')
