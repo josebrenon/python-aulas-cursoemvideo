@@ -8,7 +8,7 @@
 <body>
     <h1>Aulas e exercícios de Python do Curso em vídeo</h1>
     <hr>
-    <p>Esse repositório contém as aulas e os exercícios do curso de HTML5 e CSS3 do Curso em vídeo</p>
+    <p>Esse repositório contém as aulas e os exercícios do curso de Python do Curso em vídeo</p>
 
 </body>
 </html>
