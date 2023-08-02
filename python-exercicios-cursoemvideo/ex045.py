@@ -41,18 +41,18 @@ if computador == 0:  # COMPUTADOR JOGOU PEDRA
         print('JOGADA INVALIDA')
 if computador == 1:  # COMPUTADOR JOGOU PAPEL
     if jogador == 0:
-        print('{} GANHOU'.format(nome_jogador))
+        print('COMPUTADOR VENCEU')
     elif jogador == 1:
         print('EMPATOU')
     elif jogador == 2:
-        print('COMPUTADOR VENCEU')
+        print('{} VENCEU'.format(nome_jogador))
     else:
         print('JOGADA INVALIDA')
 if computador == 2:  # COMPUTADOR JOGOU TESOURA
     if jogador == 0:
-        print('COMPUTADOR VENCEU')
-    elif jogador == 1:
         print('{} VENCEU'.format(nome_jogador))
+    elif jogador == 1:
+        print('COMPUTADOR VENCEU')
     elif jogador == 2:
         print('EMPATOU')
     else:
