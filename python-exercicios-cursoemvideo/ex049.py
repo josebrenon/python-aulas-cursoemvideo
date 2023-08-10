@@ -1,7 +1,7 @@
 """
     Esse exercício é referente a aula 13 do curso de Python do Curso em vídeo:
 
-    Desafio 048: Refaça o DESAFIO 9, mostrando a tabuada de um
+    Desafio 049: Refaça o DESAFIO 9, mostrando a tabuada de um
     número que o usuário escolher, só que agora utilizando um laço for.
 
     Esse programa pede um número inteiro e usando o laço for mostra a sua tabuada.
