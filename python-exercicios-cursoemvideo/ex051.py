@@ -1,7 +1,7 @@
 """
     Esse exercício é referente a aula 13 do curso de Python do Curso em vídeo:
 
-    Desafio 050: Desenvolva um programa que leia o primeiro termo e a razão
+    Desafio 051: Desenvolva um programa que leia o primeiro termo e a razão
     de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
 
     Esse programa lê o primeiro termo e a razão de uma PA e mostra os seus 10
