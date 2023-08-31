@@ -8,7 +8,7 @@
 
     Esse programa lê varios números inteiros, perguntando sempre se ele quer
     digitar mais algum coisa, verifica quantos números foram digitados pelo usuário e mostra
-    calcula e mostra a média entre eles, o maior e o menor valores lidos.
+    o calculo e a média entre eles, o maior e o menor valores lidos.
 
     Autor: José Brenon - 28/08/2023
 """
