@@ -24,6 +24,8 @@ while True:
     opcao = str(input('Você quer continuar? [S/N]: '))
     if opcao in 'Nn':
         break
+    if opcao not in 'SsnN':
+        print('Opção invalida!', end=' ')
     if opcao in 'Ss':
         while True:
             escolha = int(input('Digite um número entre 0 e 20: '))
@@ -31,6 +33,4 @@ while True:
                 break
             print('Tente novamente!', end=' ')
         print(f'Você escolheu o {numeros[escolha]}')
-    if opcao not in 'SsnN':
-        print('Opção invalida!', end=' ')
 print(f'{"FIM":.^21}')
